@@ -63,8 +63,8 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho ou tenho
 
 ### 🌐 Idiomas
 
-* **Português:** Nativo 🇧🇷
-* **Inglês:** Nível B2 (Leitura técnica e conversação intermediária-avançada) 🇬🇧
+* **Português:** Nativo
+* **Inglês:** Nível B2 (Leitura técnica e conversação intermediária-avançada) 
 
 ---
 
