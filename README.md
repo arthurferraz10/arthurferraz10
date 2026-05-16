@@ -3,9 +3,6 @@
 ### Técnico em Informática | Graduando em Ciência da Computação na Dom Helder | Desenvolvedor Web & Automação
 
 Seja bem-vindo ao meu perfil do GitHub! Atualmente, curso **Bacharelado em Ciência da Computação** na Escola Superior Dom Helder Câmara e estou em busca de oportunidades como **Estagiário ou Desenvolvedor Júnior**, além de focar na obtenção de certificações de peso de mercado (como Google e Oracle).
-
----
-
 <table align="center">
   <tr>
     <td valign="top">
@@ -17,21 +14,7 @@ Seja bem-vindo ao meu perfil do GitHub! Atualmente, curso **Bacharelado em Ciên
   </tr>
 </table>
 
----
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arthurferraz10/arthurferraz10/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/arthurferraz10/arthurferraz10/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/arthurferraz10/arthurferraz10/raw/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🛠️ Tecnologias e Habilidades
-
-Aqui estão algumas das ferramentas e tecnologias com as quais trabalho ou tenho experiência:
 
 #### **Linguagens de Programação & Web**
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
