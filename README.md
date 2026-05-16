@@ -5,10 +5,17 @@
 Seja bem-vindo ao meu perfil do GitHub! Atualmente, curso **Bacharelado em Ciência da Computação** na Escola Superior Dom Helder Câmara e estou em busca de oportunidades como **Estagiário ou Desenvolvedor Júnior**, além de focar na obtenção de certificações de peso de mercado (como Google e Oracle).
 
 ---
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=arthurferraz10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arthurferraz10&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
-</div>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats.shion.dev/api?username=arthurferraz10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    </td>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arthurferraz10&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 
 ---
 
