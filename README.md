@@ -2,9 +2,26 @@
 
 ### Técnico em Informática | Graduando em Ciência da Computação na Dom Helder | Desenvolvedor Web & Automação
 
-Seja bem-vindo ao meu perfil do GitHub! Sou um profissional de TI apaixonado por tecnologia, resolução eficiente de problemas e automação de processos. Iniciei minha jornada técnica em 2022 e, desde então, venho consolidando competências que unem o desenvolvimento de software e a infraestrutura de TI.
+Seja bem-vindo ao meu perfil do GitHub! Atualmente, curso **Bacharelado em Ciência da Computação** na Escola Superior Dom Helder Câmara e estou em busca de oportunidades como **Estagiário ou Desenvolvedor Júnior**, além de focar na obtenção de certificações de peso de mercado (como Google e Oracle).
 
-Atualmente, curso **Bacharelado em Ciência da Computação** na Escola Superior Dom Helder Câmara e estou em busca de oportunidades como **Estagiário ou Desenvolvedor Júnior**, além de focar na obtenção de certificações de peso de mercado (como Google e Oracle).
+---
+
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurferraz10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferraz10&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arthurferraz10/artherrazrocha/raw/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/arthurferraz10/artherrazrocha/raw/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/arthurferraz10/arthurferraz10/raw/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
@@ -16,31 +33,7 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho ou tenho
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **Ferramentas, Infraestrutura & Outros**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-
-* **Bancos de Dados:** Bancos de Dados Relacionais (SQL).
-* **APIs:** Integração e consumo de APIs externas (ex: Google Maps API), REST APIs.
-* **Suporte e Infraestrutura:** Suporte de TI Nível 2 (L2), montagem, manutenção e configuração de computadores e redes, diagnóstico de falhas em hardware/software.
-
----
-
-### 🚀 Projeto em Destaque
-
-#### **Sistema de Mapas e Rotas (Web/API) — UFV - Campus Florestal**
-* **Descrição:** Desenvolvimento de uma interface web interativa voltada para a navegação do campus universitário, focando na acessibilidade e utilidade para a comunidade local.
-* **Tecnologias:** PHP, HTML, CSS, Banco de Dados Relacional e Google Maps API.
-* **Contribuições:**
-    * Responsável pela estruturação do front-end e pela implementação da lógica de consumo de API externa para localização e cálculo de rotas em tempo real.
-    * Liderança na definição do escopo e na validação dos requisitos práticos junto aos usuários finais.
-* **Código-fonte:** Disponível aqui no meu GitHub *(Chave de API atualmente inativa por limitações externas)*.
 
 ---
 
@@ -52,29 +45,11 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho ou tenho
 
 ---
 
-### 💼 Experiência Profissional
 
-* **Profissional Autônomo (Manutenção de TI, Projetos & Logística)** | *Jan 2023 — Presente*
-    * Manutenção de hardware, montagem de computadores e suporte técnico especializado.
-    * Atuação no setor de marcenaria da família, expandindo o negócio através do design técnico de projetos utilizando **AutoCAD** e gestão de relacionamento com o cliente.
-    * Análise de processos e logística, aplicando lógica de programação e análise de dados estruturada via Excel para ganho de eficiência operacional.
 
----
-
-### 🌐 Idiomas
-
-* **Português:** Nativo
-* **Inglês:** Nível B2 (Leitura técnica e conversação intermediária-avançada) 
-
----
-
-### 📫 Vamos nos conectar?
+### 📫 Contato
 
 * **📍 Localização:** Betim, Minas Gerais, Brasil
 * **📞 Telefone:** +55 (31) 99610-9990
-* **✉️ E-mail:** [arthurferrazrocha788@gmail.com](mailto:arthurferrazrocha788@gmail.com)
-* **💼 LinkedIn:** [Seu Link do LinkedIn Aqui] *(Recomendado adicionar ao seu perfil)*
-
----
-
-*“Focado em evolução diária, automação inteligente e no desenvolvimento de soluções eficientes.”*
+* **✉️ E-mail:** arthurferrazrocha788@gmail.com
+* **💼 LinkedIn:** https://www.linkedin.com/in/arthur-ferraz-rocha-27a2b6307/ 
